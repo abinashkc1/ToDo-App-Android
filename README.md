@@ -5,10 +5,10 @@ This is a ToDo List App developed using Android Studio. ToDoList is software in 
 
 ## Images of Todo App
 
-<img src="image/1.png" height=250 width=200></img>
-<img src="image/2.png" height=250 width=200></img>
-<img src="image/3.png" height=250 width=200></img>
-<img src="image/4.png" height=250 width=200></img>
+<img src="image/1.png" height=400 width=200></img>
+<img src="image/2.png" height=400 width=200></img>
+<img src="image/3.png" height=400 width=200></img>
+<img src="image/4.png" height=400 width=200></img>
 
 
 ## Features
